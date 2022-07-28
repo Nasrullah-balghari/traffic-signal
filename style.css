@@ -1,0 +1,27 @@
+#button {
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 250px;
+   margin-left: 50%;
+}
+#button:hover{
+    cursor: pointer;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+}
+button{
+    /* position:absolute;  */
+    /* margin-top: 250px; */
+    
+    
+}
+ img{
+    position:fixed;
+    text-align: center;
+    justify-content: center;
+    margin-left: 50%;
+
+}
